@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ResDT
 - 👀 I’m interested in Data Science, programming languages, especially, Lisp and Python and programming at all.
 - 🌱 I’m currently learning Lisp and Python.
-- 📫 How to reach me: You can write me on my e-mail: shiryaev.nikita.resdt@mail.ru
+- 📫 How to reach me: You can write me on my e-mail: shiryaev.nikita.resdt@gmail.com
