@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ResDT
+- 👋 Hi, I’m @resdt
 - 👀 I’m interested in Data Science, programming languages, especially, Lisp and Python and programming at all.
 - 🌱 I’m currently learning Lisp and Python.
